@@ -1,0 +1,6 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wireflow – Wireflow home</title><link>https://wireflowio.github.io/</link><description>Recent content in Wireflow home on Wireflow</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 27 Nov 2025 16:01:09 +0800</lastBuildDate><atom:link href="https://wireflowio.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction of wireflow</title><link>https://wireflowio.github.io/blog/introduction/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wireflowio.github.io/blog/introduction/introduction/</guid><description>
+&lt;p&gt;Wireflow&amp;rsquo;s goal is to provide a seamless and automated way to manage WireGuard VPNs within Kubernetes environments. By
+leveraging Kubernetes&amp;rsquo; declarative nature, Wireflow allows users to define their desired network configurations using
+custom resource definitions (CRDs). The Wireflow operator then takes care of provisioning and managing the underlying
+WireGuard tunnels, ensuring secure and efficient connectivity between mutiple platforms. This approach simplifies the
+complexity of VPN management, enhances security through automation, and integrates natively with Kubernetes workflows.&lt;/p&gt;</description></item></channel></rss>
