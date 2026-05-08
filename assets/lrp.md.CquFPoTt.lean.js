@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,a0 as r}from"./chunks/framework.DoRPXVp_.js";const h=JSON.parse('{"title":"LRP Protocol","description":"","frontmatter":{},"headers":[],"relativePath":"lrp.md","filePath":"lrp.md"}'),s={name:"lrp.md"};function l(i,e,p,c,n,d){return t(),o("div",null,[...e[0]||(e[0]=[r("",3)])])}const m=a(s,[["render",l]]);export{h as __pageData,m as default};
