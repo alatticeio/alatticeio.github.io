@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,a0 as l}from"./chunks/framework.DoRPXVp_.js";const c=JSON.parse('{"title":"Network Policy","description":"","frontmatter":{},"headers":[],"relativePath":"acls.md","filePath":"acls.md"}'),e={name:"acls.md"};function t(p,s,h,k,r,d){return a(),n("div",null,[...s[0]||(s[0]=[l("",8)])])}const o=i(e,[["render",t]]);export{c as __pageData,o as default};
