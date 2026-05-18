@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as i,a0 as n}from"./chunks/framework.DoRPXVp_.js";const f=JSON.parse('{"title":"FAQ","description":"","frontmatter":{},"headers":[],"relativePath":"faq/index.md","filePath":"faq/index.md"}'),o={name:"faq/index.md"};function s(r,e,c,d,l,p){return t(),i("div",null,[...e[0]||(e[0]=[n("",4)])])}const h=a(o,[["render",s]]);export{f as __pageData,h as default};
