@@ -41,6 +41,7 @@ import{_ as a,o as n,c as e,a0 as t}from"./chunks/framework.DoRPXVp_.js";const u
 <span class="line"><span>├── sandbox_shared.go       # No build tag — shared utilities (credential I/O, fileAuditWriter)</span></span>
 <span class="line"><span>├── sandbox_community.go    # //go:build !pro — full community implementation (pod mode)</span></span>
 <span class="line"><span>├── sandbox_pro.go          # //go:build pro  — Pro-only extensions (both modes)</span></span>
+<span class="line"><span>├── sandbox_run_pro.go      # //go:build pro  — \`lattice sandbox run\` (pod &amp; gvisor modes)</span></span>
 <span class="line"><span>├── sandbox_agent.go        # //go:build pro  — \`lattice sandbox agent\` (manual debugging)</span></span>
 <span class="line"><span>├── driver.go               # DriverConfig, IsolationDriver interface</span></span>
 <span class="line"><span>├── driver_pod.go           # //go:build pro  — PodDriver (in-process gVisor netstack)</span></span>
